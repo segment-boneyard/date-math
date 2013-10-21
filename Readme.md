@@ -26,13 +26,15 @@ Dates.month.diff(date, past); // -120
 
   The API follows the general format `module[timespan]`. You can use any of these timespans:
 
-  * second
-  * minute
-  * hour
-  * day
-  * week (defaults to ISO week format, starts with monday)
-  * month
-  * year
+
+    * second
+    * minute
+    * hour
+    * day
+    * week (defaults to ISO week format, starts with monday)
+    * month
+    * year
+
 
   Each timespan has several different methods.
 
