@@ -1,0 +1,25 @@
+{
+  "name": "date-math",
+  "repo": "segmentio/date-math",
+  "description": "Math. functions for dates",
+  "version": "0.0.1",
+  "keywords": [
+    "date",
+    "math"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/day.js",
+    "lib/diff.js",
+    "lib/hour.js",
+    "lib/index.js",
+    "lib/minute.js",
+    "lib/month.js",
+    "lib/second.js",
+    "lib/week.js",
+    "lib/year.js"
+  ]
+}
