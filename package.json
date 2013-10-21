@@ -1,0 +1,17 @@
+{
+  "name": "date-math",
+  "version": "0.0.1",
+  "description": "Math. functions for dates",
+  "keywords": [],
+  "author": "segmentio <team@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/date-math.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "ms": "~0.6.1"
+  },
+  "main": "lib/index"
+}
